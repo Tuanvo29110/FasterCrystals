@@ -34,7 +34,7 @@ java {
 }
 
 repositories {
-    maven("https://repo.codemc.io/repository/maven-snapshots/")
+    maven("https://repo.codemc.io/repository/maven-releases/")
     maven("https://repo.extendedclip.com/content/repositories/placeholderapi/")
 }
 
