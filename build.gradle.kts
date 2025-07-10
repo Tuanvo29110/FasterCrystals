@@ -42,7 +42,7 @@ dependencies {
     paperweight.paperDevBundle("1.20.6-R0.1-SNAPSHOT")
 
     compileOnly("me.clip:placeholderapi:2.11.6")
-    compileOnly("com.github.retrooper:packetevents-spigot:2.9.0-SNAPSHOT")
+    compileOnly("com.github.retrooper:packetevents-spigot:2.9.1")
 
     compileOnly("org.projectlombok:lombok:1.18.38")
     annotationProcessor("org.projectlombok:lombok:1.18.38")
